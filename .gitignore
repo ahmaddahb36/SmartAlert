@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# dotenv
+.env
+
+# Model artifacts
+*.pkl
+
+# Uploaded data / runtime
+uploads/
+*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
